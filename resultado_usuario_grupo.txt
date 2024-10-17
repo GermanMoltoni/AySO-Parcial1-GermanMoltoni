@@ -1,0 +1,4 @@
+uid=1002(developer1) gid=1005(developer1) groups=1005(developer1),1002(grupodevops),1003(grupodevelopers)
+uid=1003(tester1) gid=1006(tester1) groups=1006(tester1),1004(grupotesters)
+uid=1004(devops1) gid=1007(devops1) groups=1007(devops1),1002(grupodevops),1003(grupodevelopers)
+uid=1005(devops2) gid=1008(devops2) groups=1008(devops2),1002(grupodevops)
